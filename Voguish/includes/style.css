@@ -1,0 +1,65 @@
+
+.logo123{
+    padding-left:12px;
+    height: 80%;
+}
+.container{
+    background-color: lightgrey;
+}
+footer {
+    background-color: black;
+    color: white;
+}
+#footer{
+    position: static;
+    margin-bottom: 0;
+    bottom:0;
+    width:100%;
+    height:auto;
+    margin-top: 50px;
+    min-height: 100px;
+    height: auto;
+}
+.footer-main{
+        display: flex;
+        justify-content: space-around;
+        flex-flow: row wrap;
+        margin-bottom: 5px;
+        
+}
+.footer-main ul li{
+    margin: 10px;
+    
+}
+.footer-main ul li img{
+    width: 30px;
+}
+#linqet {
+    color: white;
+}
+#k1 {
+    margin-left: 80px;
+}
+
+.footer-main ul:nth-child(1){
+    list-style-type: none;
+    text-align: left;
+}
+
+.footer-main ul:nth-child(2){
+    list-style-type: none;
+    text-align: left;
+}
+#rreshti{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#rresht ul{
+    list-style-type: none;
+}
+#footer h3{
+    text-align: center ;
+    padding-bottom: 10px;
+    font-size: 1rem;
+}
